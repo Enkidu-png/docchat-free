@@ -1,0 +1,1 @@
+# Tesseract-based OCR for scanned PDF pages.

@@ -1,0 +1,1 @@
+# Loads .env and validates settings (Pydantic).

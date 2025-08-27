@@ -1,0 +1,1 @@
+# Orchestrates scan -> load -> OCR -> normalize -> chunk -> embed -> upsert.

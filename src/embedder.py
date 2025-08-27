@@ -1,0 +1,1 @@
+# Embedding wrapper for BAAI/bge-m3.

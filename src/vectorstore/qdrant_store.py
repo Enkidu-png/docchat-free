@@ -1,0 +1,1 @@
+# Qdrant client + collection init + upsert/query.

@@ -1,0 +1,1 @@
+# PDF (page-first) + DOCX loaders; OCR fallback
